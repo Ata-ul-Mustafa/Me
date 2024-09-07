@@ -1,0 +1,126 @@
+
+#hero{
+   background-color: #040D12;
+   
+}
+#resume{
+    background-color: #183D3D;
+}
+#showcase{
+
+    background-color: #5C8374; 
+}
+#about-me{
+
+    background-color: #183D3D; 
+}
+#contact-me{
+background-color: #183D3D;
+
+}
+h1{
+    color:white;
+    font-family: "Playfair Display", serif;
+}
+h2{
+    color:white;
+    font-family: "Playfair Display", serif;
+}
+h3{
+    color:white;
+    font-family: "Playfair Display", serif;
+}
+    
+p{
+    color:white;
+}
+.hero-img{
+border-radius: 2%;
+
+
+
+}
+.lead{
+
+    font-family: "Lato",sans-serif;
+}
+.car1-text{
+    color: black;
+}
+.card-1{
+    justify-content:center;
+}
+.resume-container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.show-row{
+    justify-content:space-between;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.show-flex{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.git-img{
+    border-radius: 50%;
+}
+.showcase-h1{
+
+    text-align: center;
+    font-size: 3rem;
+    font-weight: semibold;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+.showcase-container{
+    
+    padding-bottom: 100px;;
+}
+.tindog-h3{
+    
+    padding-top: 300px;
+    color: #183D3D;
+    text-shadow: 
+    -1px -1px 0 white, /* Top-left shadow */
+    /*1px -1px 0 white, /* Top-right shadow */
+  /* -1px  1px 0 white, /* Bottom-left shadow */
+    1px  1px 0 white;
+
+}
+.personal-site-h3{
+    padding-top: 300px;
+    color: #183D3D;
+    text-shadow: 
+    -1px -1px 0 white, /* Top-left shadow */
+    /*1px -1px 0 white, /* Top-right shadow */
+  /* -1px  1px 0 white, /* Bottom-left shadow */
+    1px  1px 0 white;
+
+}
+.contact-container{
+    background-color: #c8f5e3;
+
+}
+.contact-p{
+    color:black;
+}
+.contact-class{
+    padding-bottom:50px;
+}
+.footer-1{
+
+background-color:#040D12
+
+}
+.cprt{
+    color:white;
+}
+
+.footer-last-icon{
+    padding-right:100px;
+}
